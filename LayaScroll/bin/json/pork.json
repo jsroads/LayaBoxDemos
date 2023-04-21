@@ -1,0 +1,62 @@
+{
+  "1": {
+    "tid": 1,
+    "icon": "aa_1.png",
+    "star": 1,
+    "name": "梅花A"
+  },
+  "2": {
+    "tid": 2,
+    "icon": "aa_2.png",
+    "star": 3,
+    "name": "梅花2"
+  },
+  "3": {
+    "tid": 3,
+    "icon": "aa_3.png",
+    "star": 5,
+    "name": "梅花3"
+  },
+  "4": {
+    "tid": 4,
+    "icon": "aa_4.png",
+    "star": 3,
+    "name": "梅花4"
+  },
+  "5": {
+    "tid": 5,
+    "icon": "aa_5.png",
+    "star": 5,
+    "name": "梅花5"
+  },
+  "6": {
+    "tid": 6,
+    "icon": "aa_6.png",
+    "star": 2,
+    "name": "梅花6"
+  },
+  "7": {
+    "tid": 7,
+    "icon": "aa_7.png",
+    "star": 5,
+    "name": "梅花7"
+  },
+  "8": {
+    "tid": 8,
+    "icon": "aa_8.png",
+    "star": 1,
+    "name": "梅花8"
+  },
+  "9": {
+    "tid": 9,
+    "icon": "aa_9.png",
+    "star": 6,
+    "name": "梅花9"
+  },
+  "10": {
+    "tid": 10,
+    "icon": "aa_10.png",
+    "star": 7,
+    "name": "梅花10"
+  }
+}

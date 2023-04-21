@@ -1,0 +1,1 @@
+{"type":"View","props":{"width":178,"height":250},"compId":2,"child":[{"type":"Sprite","props":{"y":124,"x":89,"width":178,"var":"porkImage","texture":"pork/aa_2.png","pivotY":124,"pivotX":89,"height":247},"compId":3}],"loadList":["pork/aa_2.png"],"loadList3D":[]}
